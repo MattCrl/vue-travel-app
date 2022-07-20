@@ -22,7 +22,7 @@
 <script>
 import store from '@/store'
 
-export default{
+export default {
   data() {
     return {
       destinations: store.destinations
